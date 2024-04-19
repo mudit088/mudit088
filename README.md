@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m4aQDp78uvlHh1nnd2OBxjIKol_EYswY/view?usp=sharing](https://drive.google.com/file/d/1m4aQDp78uvlHh1nnd2OBxjIKol_EYswY/view?usp=sharing)
 
-- ⚡ Fun fact **Maybe i'm lazyy..**
+- ⚡ Fun fact **Maybe i'm coder..**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
