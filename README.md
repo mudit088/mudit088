@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Maybe i'm coder..**
 
-- <img src="https://raw.githubusercontent.com/rishi-bhardvaj/rishi-bhardvaj/output/snake.svg" alt="Snake animation" />
+- <img src="https://raw.githubusercontent.com/mudit088/mudit088/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -34,4 +34,5 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudit088&" alt="mudit088" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudit088&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
