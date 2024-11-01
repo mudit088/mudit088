@@ -1,6 +1,6 @@
 ![logo](https://github.com/mudit088/mudit088/blob/main/banner2.gif)
 <h1 align="center">Hi 👋, I'm Mudit Srivastava</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudit088&label=Profile%20views&color=0e75b6&style=flat" alt="mudit088" /> </p>
 
