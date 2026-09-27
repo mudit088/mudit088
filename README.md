@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mudit088?tab=repositories](https://github.com/mudit088?tab=repositories)
 
-- 💬 Ask me about **react,angular,java**
+- 💬 Ask me about **react,next,golang,postgre
 
 - 📫 How to reach me **muditsri25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m4aQDp78uvlHh1nnd2OBxjIKol_EYswY/view?usp=sharing](https://drive.google.com/file/d/1m4aQDp78uvlHh1nnd2OBxjIKol_EYswY/view?usp=sharing)
+- :) www.mudit.website 
 
 - ⚡ Fun fact **Maybe i'm coder..**
 
